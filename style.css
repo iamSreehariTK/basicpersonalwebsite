@@ -1,0 +1,34 @@
+.texc{
+    color: #526a54;
+    
+}
+
+.loggo{
+    
+    float: left;
+    margin-top: 1.3rem;
+    
+}
+.exa{
+    margin-left: 2.2rem;
+
+}
+.bdrd{
+    border-radius: rem;
+}
+.btttn{
+    width: 100%;
+    height: 100%;
+}
+.hedsec{
+    position: fixed;
+    width: 100%;
+    z-index: 1;
+}
+.lassst{
+    padding-top: 6rem;
+    padding-bottom: 2rem;
+}
+a{
+    color: inherit;
+}
